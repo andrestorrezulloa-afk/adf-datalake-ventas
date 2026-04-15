@@ -1,0 +1,9 @@
+{
+	"name": "df-ucb-sisger-datalake",
+	"location": "chilecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a8d071c5-e497-443c-b20a-668eebf62706",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
